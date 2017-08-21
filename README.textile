@@ -1,0 +1,1 @@
+Dunkin Donuts Facebook likes Scraper utilizing Facebook Graph API, converting JSON and storing current likes with likes since last run.
